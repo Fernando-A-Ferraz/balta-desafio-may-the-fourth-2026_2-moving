@@ -1,0 +1,44 @@
+[
+  {
+    "Number": 1,
+    "Items": [
+      {
+        "Name": "carregador"
+      },
+      {
+        "Name": "mouse"
+      },
+      {
+        "Name": "teclado"
+      }
+    ]
+  },
+  {
+    "Number": 2,
+    "Items": [
+      {
+        "Name": "roupas"
+      },
+      {
+        "Name": "toalha"
+      },
+      {
+        "Name": "cobertor"
+      }
+    ]
+  },
+  {
+    "Number": 3,
+    "Items": [
+      {
+        "Name": "panela"
+      },
+      {
+        "Name": "prato"
+      },
+      {
+        "Name": "copo"
+      }
+    ]
+  }
+]
